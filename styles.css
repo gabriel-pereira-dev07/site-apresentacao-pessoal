@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "Alfa Slab One";
+  src: url("./alfaSlabOne-regular.ttf");
+}
+
+#titulo {
+  font-family: Alfa Slab One;
+  font-size: 60px;
+  font-weight: 700px;
+  text-align: center;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+
+}
+.apresentacao {
+  margin-top: 500px;
+}
+.subtitulo {
+  font-size: 24px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+body {
+  background-color: greenyellow;
+}
+
+#botão {
+  width: 7000px;
+  height: 20000px;
+}
+#informacoespessoais {
+  font-size: 30px;
+  font-family: font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: black;
+  font-style: }
+
+.hobbies{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#minhafoto {width: 400px;
+border: 2px solid red;
+}
+.conteudoprincipal{display:flex;align-items:center;
+gap: 30px;}
+
+  #conteudoabaixodafoto{display: flex; flex-direction:column;padding:20px;
+  
+  gap:10px;}
+
+  .listapessoal{text-align:left;font-size: 20px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+  .tituloconhecimento{left: 50px;}
+  .meusconhecimentos{text-align: left;font-size: 20px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+ .tituloprojeto{font-family: Alfa Slab One;text-align: center;margin-top: 370px;border-top: 3px solid black;border-bottom: 3px solid black;}
+ .subtituloprojeto{text-align: center; font-size: 20px;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;}
+ .primeirot{margin-top: 50px;'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+ .segundot{margin-top: 50px;}
+ .terceirot{margin-top: 50px;}
+ .quartot{margin-top: 50px;}
+ .quintat{margin-top: 50px;}
+ .projeto1{display: flex; flex-wrap:wrap;gap: 20px;}
+ .cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;flex-direction:row;
+}
+.card {margin-top: 50px;
+  border: 2px solid black;
+  padding: 20px;
+  width: 200px;
+}
+.historico{text-align: center; }
+ul { font-size: 17px;font-family: Georgia, 'Times New Roman', Times, serif ;
+  list-style-type: none;}
+
+
+.p1{font-size:18px;}
+.p2{font-size:18px;}
+.certificadotitulo{margin-top: 400px; border-top: 2px solid black;
+border-bottom: 2px solid black;}
+.historicot1{margin-top:200px;  border: 2px solid black;}
+.historicot2{margin-top: 70px;font-size: 27px;}
+.historicot3{margin-top: 70px;font-size: 27px;}
+.certificado1{width: 400px;height: 232px;}
+.certificado2{width: 400px;height: 232px;}
+.certificado3{width: 400px;height: 232px;}
+.textfinal{font-size:40px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align:right; margin-top:700px;}
+.pfinal{font-size: 20px;font-family: cursive;}
